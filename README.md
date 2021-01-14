@@ -1,3 +1,3 @@
 # Apache-Cordova-Kaspel-2
-logon plugin
+logon plugin,
 ui5 plugin
